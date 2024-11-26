@@ -1,0 +1,33 @@
+$dark-blue: rgb(3, 4, 94);
+
+header {
+    p {
+        margin-top: 218px;
+        color: $dark-blue;
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 42px;
+    }
+    h1 {
+        font-size: 100px;
+        font-weight: 800;
+        line-height: 116px;
+    }
+    img {
+        margin-top: 127px;
+    }
+    button {
+        cursor: pointer;
+        margin-top: 34px;
+        border-radius: 6px;
+        /* Yellow */
+        background: rgb(245, 238, 132);
+        width: 158px;
+        height: 61px;
+        border: none;
+            color: rgb(71, 67, 6);
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 30px;
+    }
+}
